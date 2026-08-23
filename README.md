@@ -2,7 +2,8 @@
 
 ###
 
-<p data-importer="text" align="left">Meu nome é João Pedro, eu estou cursando informática pra internet.</p>
+<p data-importer="text" align="left">Sou desenvolvedor em formação e tenho experiência prática com Csharp, .NET MAUI, XAML, HTML, CSS, JavaScript, PHP e MySQL. Já desenvolvi sites, aplicativos desktop e mobile, APIs e sistemas com banco de dados. Também desenvolvi uma biblioteca TCP em Csharp para facilitar a comunicação entre aplicações de cliente e servidor.
+</p>
 
 ###
 
