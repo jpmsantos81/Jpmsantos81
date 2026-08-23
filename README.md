@@ -36,6 +36,10 @@
 
 ###
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=dark)
+
+###
+
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jpmsantos81/jpmsantos81/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jpmsantos81/jpmsantos81/pacman-output/pacman-contribution-graph.svg?game=pacman">
