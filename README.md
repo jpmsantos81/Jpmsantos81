@@ -36,7 +36,7 @@
 
 ###
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=dark)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=algolia)
 
 ###
 
