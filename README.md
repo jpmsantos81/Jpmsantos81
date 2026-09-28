@@ -7,7 +7,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Linguagens</h2>
+<h2 data-importer="text" align="left">Tecnologias</h2>
 
 ###
 
