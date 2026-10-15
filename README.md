@@ -1,14 +1,10 @@
-<h1 data-importer="text" align="left">Sobre</h1>
+<h1 data-importer="text" align="left">Olá, seja bem-vindo ao meu github</h1>
 
-###
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=algolia)
 
 <p data-importer="text" align="left">Sou desenvolvedor em formação e tenho experiência prática com Csharp, .NET MAUI, XAML, HTML, CSS, JavaScript, PHP e MySQL. Já desenvolvi sites, aplicativos desktop e mobile, APIs e sistemas com banco de dados. Também desenvolvi uma biblioteca TCP em Csharp para facilitar a comunicação entre aplicações de cliente e servidor.
 </p>
-
-###
-
-<h2 data-importer="text" align="left">Tecnologias</h2>
-
+ 
 ###
 
 <div data-importer="techs" align="left">
@@ -28,13 +24,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
-
-###
-
-<div data-importer="techs" align="left">
-</div>
-
-###
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=algolia)](https://github-stats-extended.vercel.app/api/top-langs?username=jpmsantos81&layout=compact&langs_count=6&theme=algolia)
-
